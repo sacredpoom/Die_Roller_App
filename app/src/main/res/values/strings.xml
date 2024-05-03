@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DieRoller</string>
+    <string name="roll">Roll</string>
+    <string name="result">Result: %1$s</string>
+</resources>
